@@ -1,1 +1,0 @@
-import{k as t,c as n,e as o,a3 as a}from"./vMT40zM5.js";const c={};function r(e,s){return n(),o("td",null,[a(e.$slots,"default",{},void 0,!0)])}const d=t(c,[["render",r],["__scopeId","data-v-5f84e3ba"]]);export{d as default};
